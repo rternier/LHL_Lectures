@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwaC/ZK8vhqgEBjO/bbMcHmUMC4T4WqksPBXzYYPW0ptUNrg+4qd7JF6oE5tdyFN4KTe9/AbdMA3nAdlXkFyNA==",
+  "success": true,
+  "projectFilePath": "c:\\projects\\Examples\\SQLInjection\\SQLInjection\\SQLInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

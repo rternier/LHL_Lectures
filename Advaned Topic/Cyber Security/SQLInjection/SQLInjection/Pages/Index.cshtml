@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    
+    <section>
+        <h2>SQL Injection Example</h2>
+        <p>
+            This is a simple example using a login controls to log into a website.
+        </p>
+        
+        <div class="row">
+            <div class="col-md-6">
+                <form id="formST1">
+                    Email: <input type="text" label="Email" placeholder="Enter your Email..." id="usernameT1" />
+                    Password: <input type="password" label="Password" id="passwordT1" />
+                  <button id="postSI1">Submit</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+             
+            </div>
+        </div>
+      
+
+    </section>
+
+
+
+</div>
+
+<script type="module" src="scripts/SqlInjection.js"  ></script>
+
